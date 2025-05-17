@@ -3,14 +3,17 @@
 I am currently an undergraduate student at Shanghai Normal University, actively seeking opportunities for direct Ph.D. admission in Speech and Audio Processing, and Natural Language Processing.
 
 #### Email
-1000530599[at]smail.shnu.edu.cn
+1000530599@smail.shnu.edu.cn
 
 #### Education
-B.E., Shanghai Normal University, (expected graduation date)
+2023.12-present: B.E., Shanghai Normal University, Unisound-SHNU Joint Lab of Human-Machine Interaction, supervised by Prof. [Yanhua Long]
+
 
 #### Research Interests
-Speech and Audio Processing, Natural Language Processing, Deep Learning
+Speech and Audio Processing, Natural Language Processing, Deep Learning, including but not limited to:
+- Sound Event Detection
+
 
 #### Ph.D. Opportunities
-I am actively seeking direct Ph.D. admission opportunities in Speech, Audio Processing, and NLP fields. If you have any positions or know of any opportunities, please feel free to contact me via email.
+I am actively seeking direct Ph.D. admission opportunities in Speech, Audio Processing, and NLP fields. If you have any positions or know of any opportunities, please feel free to contact me via email📧.
 
