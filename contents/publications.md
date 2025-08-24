@@ -11,5 +11,5 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 -->
-
-- Cui, H., Song, L., Li, L., Xu, D., & Long, Y. (2025). Exploring the Potential of SSL Models for Sound Event Detection. ArXiv. [[Paper]](https://arxiv.org/abs/2505.11889)
+-Sound Event Detection:
+-- Cui, H., Song, L., Li, L. et al. Revisiting SSL for sound event detection: complementary fusion and adaptive post-processing. J. King Saud Univ. Comput. Inf. Sci. 37, 160 (2025).[[Paper]](https://doi.org/10.1007/s44443-025-00181-5)
