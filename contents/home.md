@@ -15,5 +15,5 @@ Speech and Audio Processing, Natural Language Processing, Deep Learning, includi
 - Acoustic Scene Classification
 
 #### Ph.D. Opportunities
-I am actively seeking direct Ph.D. admission opportunities in Speech, Audio and Music Processing fields. If you have any positions or know of any opportunities, please feel free to contact me via [email📧](1000530599@smail.shnu.edu.cn).
+I am actively seeking direct Ph.D. admission opportunities in Speech, Audio and Music Processing fields. If you have any positions or know of any opportunities, please feel free to contact me via [email📧](mailto:1000530599@smail.shnu.edu.cn).
 
